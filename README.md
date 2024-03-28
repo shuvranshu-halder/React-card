@@ -8,4 +8,7 @@ New things I learned:-
 3. git and github
 4. how to build and deploy a react projects using github-pages.
    
-Skills: Web Development · GitHub · React.js · Git · css
+Skills: Web Development · GitHub · React.js · Git · CSS
+
+Live page- https://shuvranshu-halder.github.io/React-card/
+
