@@ -7,4 +7,5 @@ New things I learned:-
 2. how to pass data between components using "props"
 3. git and github
 4. how to build and deploy a react projects using github-pages.
+   
 Skills: Web Development · GitHub · React.js · Git · css
